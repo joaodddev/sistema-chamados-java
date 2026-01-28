@@ -1,20 +1,22 @@
 # Sistema de Chamados em Java
 
-Projeto desenvolvido para praticar Programação Orientada a Objetos (POO),
-com foco em encapsulamento, regras de negócio e organização de código.
+Projeto desenvolvido para praticar conceitos de
+**Programação Orientada a Objetos (POO)** em Java.
 
 ## Funcionalidades
-- Criação de chamados
-- Controle de status via enum
-- Histórico de eventos
+- Abertura e fechamento de chamados
+- Controle de status com enum
+- Histórico de atendimentos com data e hora
+- Validações de regras de negócio
+- Relatórios no console
 - Filtro de chamados por status
 
-## Tecnologias
-- Java
-- Streams API
-- POO
+## Conceitos aplicados
+- Encapsulamento
+- Associação entre classes
+- Enumeração de estados
+- Regras de negócio centralizadas
+- Código limpo e organizado
 
-## Próximos passos
-- Persistência em banco de dados
-- Interface REST (Spring Boot)
-- Testes unitários
+## Execução
+Projeto Java puro, executável via VS Code ou terminal.
